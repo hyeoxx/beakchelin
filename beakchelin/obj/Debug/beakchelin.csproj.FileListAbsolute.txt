@@ -1,0 +1,12 @@
+C:\Users\H\source\repos\beakchelin\beakchelin\bin\Debug\beakchelin.exe.config
+C:\Users\H\source\repos\beakchelin\beakchelin\bin\Debug\beakchelin.exe
+C:\Users\H\source\repos\beakchelin\beakchelin\bin\Debug\beakchelin.pdb
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.csprojAssemblyReference.cache
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.MainApplication.resources
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.Properties.Resources.resources
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.csproj.GenerateResource.cache
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.exe
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.pdb
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.Food.resources
+C:\Users\H\source\repos\beakchelin\beakchelin\obj\Debug\beakchelin.Review.resources
